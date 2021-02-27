@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/luis11dcv/Escritorio/biblioteca/library.cpp
+library.h
+/home/luis11dcv/Escritorio/biblioteca/library.h
+iostream
+-
+
+/home/luis11dcv/Escritorio/biblioteca/library.h
+iostream
+-
+string
+-
+vector
+-
+functional
+-
+
